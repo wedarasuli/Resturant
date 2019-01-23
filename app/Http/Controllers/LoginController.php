@@ -44,7 +44,7 @@ class LoginController extends Controller
 
      function successlogin()
     {
-     return view('successlogin');
+     return view('master');
     }
 
       function logout()
